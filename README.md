@@ -11,7 +11,7 @@
 ![](/images/ME_21_project_occurences.jpg)
 
 # [Simplex Method Algorithm for Linear Programming, Calculator](https://github.com/RobertoBautista189/Simplex_Method)
-**Overview:** Implementing Simplex Algorithm for Linear Programing in Matlab.
+**Overview:** Implements Simplex Method Algorithm for Linear Programing using Matlab.
 
 Inputs: Matrix A, vector b and vector c from the standard form of Linear Programming problem as input and outputs the solution.
 
