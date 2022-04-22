@@ -1,6 +1,6 @@
 
 # [Occurance and Popularity Graphical User Interface:Project 1 Overview](https://github.com/RobertoBautista189/ME21_Project/blob/main/README.md)
-**Objective:** To Creating an application of the number of times a name has been used in history in the U.S. 
+**Objective:** To Create an application of the number of times a name has been used in history in the U.S. 
 1. User inputs Name and sex that wants to be explored.
 2. Open and read each file.
 3. Clean data and structure data in Python
