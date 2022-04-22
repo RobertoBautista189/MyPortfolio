@@ -17,6 +17,6 @@ Inputs: Matrix A, vector b and vector c from the standard form of Linear Program
 
 # [Fixed Rate Mortgage Loan and Fixed Rate Mortgage Loan with Points](https://github.com/RobertoBautista189/MortgageProject)
 
-**Overview:**Implemented a calculator for Fixed Mortgage rates with and without points, using python and use of classes.
+**Overview:** Implemented a calculator for Fixed Mortgage rates with and without points, using python and use of classes.
 
 ## To be updated...
