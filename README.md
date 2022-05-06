@@ -23,7 +23,7 @@
 
 Inputs: Matrix A, vector b and vector c from the standard form of Linear Programming problem as input and outputs the solution.
 
-[Click For MATLAB Implementaion/code:](https://github.com/RobertoBautista189/Simplex_Method/blob/main/Simplex_Method.m)
+[Click For MATLAB Implementaion/code](https://github.com/RobertoBautista189/Simplex_Method/blob/main/Simplex_Method.m)
 
 # [Fixed Rate Mortgage Loan and Fixed Rate Mortgage Loan with Points](https://github.com/RobertoBautista189/MortgageProject)
 
