@@ -14,8 +14,9 @@
 
 ![](/images/ME_21_project_occurences.jpg)
 
-# [Measuring California Unemployment in 2018-2019](https://github.com/RobertoBautista189/MeasuringUnemployment/blob/main/Measuring%20Unemployent.pdf)
+# [Measuring California Unemployment in 2018-2019]
 **Overview:** Created a regression model on for California unemployment from 2018-2019 with variables such as year, gender, race, age, income, veteran status, and education. Implementation on STATA and the use of IPUMS data.
+[Project](https://github.com/RobertoBautista189/MeasuringUnemployment/blob/main/Measuring%20Unemployent.pdf)
 
 # [Simplex Method Algorithm for Linear Programming, Calculator](https://github.com/RobertoBautista189/Simplex_Method/blob/main/Simplex_Method.m)
 **Overview:** Implements Simplex Method Algorithm for Linear Programing using Matlab.
@@ -27,5 +28,6 @@ Inputs: Matrix A, vector b and vector c from the standard form of Linear Program
 # [Fixed Rate Mortgage Loan and Fixed Rate Mortgage Loan with Points](https://github.com/RobertoBautista189/MortgageProject)
 
 **Overview:** Implemented a calculator for Fixed Mortgage rates with and without points, using python and use of classes.
+
 [Click For Python Implementaion/Code](https://github.com/RobertoBautista189/MortgageProject/blob/main/Mortage)
 
