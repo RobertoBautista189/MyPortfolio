@@ -8,9 +8,9 @@
 5. Save txt file to be used in Matlab
 6. Create a GUI for visualization in Matlab that analyzes occurances and popularity of the name inputed by the user.
 
-[Click For Python Code](https://github.com/RobertoBautista189/ME21_Project/blob/main/project2.py)
+[Click For Python Implementaion/Code](https://github.com/RobertoBautista189/ME21_Project/blob/main/project2.py)
 
-[Click For MATLAB Code](https://github.com/RobertoBautista189/ME21_Project/blob/main/project2ML.m)
+[Click For MATLAB Implementaion/Code](https://github.com/RobertoBautista189/ME21_Project/blob/main/project2ML.m)
 
 ![](/images/ME_21_project_occurences.jpg)
 
@@ -22,8 +22,10 @@
 
 Inputs: Matrix A, vector b and vector c from the standard form of Linear Programming problem as input and outputs the solution.
 
+[Click For MATLAB Implementaion/code:](https://github.com/RobertoBautista189/Simplex_Method/blob/main/Simplex_Method.m)
+
 # [Fixed Rate Mortgage Loan and Fixed Rate Mortgage Loan with Points](https://github.com/RobertoBautista189/MortgageProject)
 
 **Overview:** Implemented a calculator for Fixed Mortgage rates with and without points, using python and use of classes.
-[Click For Python Code](https://github.com/RobertoBautista189/MortgageProject/blob/main/Mortage)
+[Click For Python Implementaion/Code](https://github.com/RobertoBautista189/MortgageProject/blob/main/Mortage)
 
