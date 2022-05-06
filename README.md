@@ -14,7 +14,7 @@
 
 ![](/images/ME_21_project_occurences.jpg)
 
-# [Measuring California Unemployment in 2018-2019]
+# Measuring California Unemployment in 2018-2019
 **Overview:** Created a regression model on for California unemployment from 2018-2019 with variables such as year, gender, race, age, income, veteran status, and education. Implementation on STATA and the use of IPUMS data.
 [Project](https://github.com/RobertoBautista189/MeasuringUnemployment/blob/main/Measuring%20Unemployent.pdf)
 
