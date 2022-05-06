@@ -19,4 +19,4 @@ Inputs: Matrix A, vector b and vector c from the standard form of Linear Program
 
 **Overview:** Implemented a calculator for Fixed Mortgage rates with and without points, using python and use of classes.
 
-## To be updated...
+
