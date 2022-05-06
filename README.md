@@ -15,7 +15,7 @@
 ![](/images/ME_21_project_occurences.jpg)
 
 # [Measuring California Unemployment in 2018-2019](https://github.com/RobertoBautista189/MeasuringUnemployment/blob/main/Measuring%20Unemployent.pdf)
-**Overview:** Created a regression model on Whether California unemployment from 2018-2019 changes depending on factors such as year, gender, race, age, income, veteran status, and education. Implementation on STATA and the use of IPUMS data.
+**Overview:** Created a regression model on for California unemployment from 2018-2019 with variables such as year, gender, race, age, income, veteran status, and education. Implementation on STATA and the use of IPUMS data.
 
 # [Simplex Method Algorithm for Linear Programming, Calculator](https://github.com/RobertoBautista189/Simplex_Method)
 **Overview:** Implements Simplex Method Algorithm for Linear Programing using Matlab.
